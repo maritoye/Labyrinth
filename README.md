@@ -1,2 +1,5 @@
 # Labyrinth
-Generating labyrinths of any given size, and solving them
+<b>Marit Øye Gjersdal, 2019</b>
+
+
+
