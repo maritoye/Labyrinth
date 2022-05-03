@@ -1,5 +1,5 @@
 # Labyrinth
-<b>Marit Øye Gjersdal, 2019</b>
+<b>Marit Øye Gjersdal, 2020</b>
 
 
 
